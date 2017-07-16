@@ -5,6 +5,7 @@ permalink: /about/
 ---
 + Intern in VUNO
 + Student in KAIST(CS & MS major)
+
 ### More Information
 
 + Working On : Machine Learning, Statistical Learning.
