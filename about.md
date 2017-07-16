@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
+Intern in VUNO
+Student in KAIST(CS & MS major)
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Working On : Machine Learning, Statistical Learning.
+Interest : Quantum computing, Information theory
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ksalsw1996@gmail.com](mailto:ksalsw1996@gmail.com)
+[ksalsw1996@kaist.ac.kr](mailto:ksalsw1996@kaist.ac.kr)
